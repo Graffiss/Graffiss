@@ -1,6 +1,6 @@
 ### Hi there, I'm Andrzej 👋
 
-[![Banner](https://raw.githubusercontent.com/graffiss/graffiss/master/banner.svg)](https://abogdol.pl)
+[![Banner](https://raw.githubusercontent.com/graffiss/graffiss/master/banner.png)](https://abogdol.pl)
 
 ## Half-developer 🧑🏻‍💻, half-dog lover 🐕
 
