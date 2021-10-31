@@ -8,8 +8,8 @@
 
 ### You can find me here:
 
-[<img align="left" alt="abogdol.pl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Andrzej Bogdoł | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="abogdol.pl" width="22px" src="https://i.postimg.cc/3RXD42qz/logo.png" />][website]
+[<img align="left" alt="Andrzej Bogdoł | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 <br />
 
