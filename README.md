@@ -1,11 +1,5 @@
 ### Hi there, I'm Andrzej 👋
 
-[![Banner](https://raw.githubusercontent.com/graffiss/graffiss/master/banner.png)](https://abogdol.pl)
-
-## Half-developer 🧑🏻‍💻, half-dog lover 🐕
-
-🐾 Built website for woofer owners with all dog friendly places in Poland 🥟 [Visit Piesly.pl][piesly]!
-
 ### You can find me here:
 
 [<img align="left" alt="abogdol.pl" width="22px" src="https://i.postimg.cc/qvHVQnD1/logo-abogdol.png" />][website]
