@@ -22,5 +22,4 @@
 <br />
 
 [website]: https://abogdol.pl
-[piesly]: http://piesly.pl
 [linkedin]: https://linkedin.com/in/andrzej-bogdo%C5%82/
